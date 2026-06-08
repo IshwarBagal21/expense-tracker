@@ -15,3 +15,6 @@ A simple Python project to track daily expenses using a CSV file.
 ## ▶️ How to Run
 1. Open terminal in project folder
 2. Run:
+## 📸 Output Screenshot
+
+![App Output](output.png)
